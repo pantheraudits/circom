@@ -1,0 +1,7 @@
+# Rust / Cargo
+target/
+
+# Circom build artifacts (optional - uncomment if you don't want to track these)
+# *.r1cs
+# *.sym
+# fibonacci_js/
